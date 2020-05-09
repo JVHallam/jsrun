@@ -9,3 +9,7 @@ The core purpose:
 
 ## Design choices:
 * Minimalism
+
+## Running
+* The project is assumed to be ran from the root of the project directory
+
